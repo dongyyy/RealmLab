@@ -1,2 +1,3 @@
 # RealmLab
-The Way to use realm database in android studio
+
+The example of using realm database in Android Studio
